@@ -1,4 +1,4 @@
-# Data-Driven-Innovations-In-Supply-Chain-Management-Wlith-Qilk-Insights
+# Data-Driven-Innovations-In-Supply-Chain-Management-With-Qilk-Insights
 
 #Problem-Statement:
 
